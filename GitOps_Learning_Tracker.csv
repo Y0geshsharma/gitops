@@ -1,0 +1,19 @@
+Topic,Learning Resource,YouTube Video,Practice Material
+Git Essentials,https://git-scm.com/book/en/v2,https://www.youtube.com/watch?v=RGOj5yH7evk,"Create a repo, simulate feature branches, PRs, merges, rebases."
+Branching Strategies,https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow,https://www.youtube.com/watch?v=uvkWiC2T50w,Model GitFlow on a sample project repo.
+CI/CD Basics,https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/,https://www.youtube.com/watch?v=7KCS70sCoK0,Build a basic CI/CD pipeline to run tests and deploy a simple app.
+Infrastructure as Code,https://www.hashicorp.com/resources/what-is-infrastructure-as-code,https://www.youtube.com/watch?v=Ia-UEYYR44s,Write simple YAML/JSON to define server configurations.
+Kubernetes Core Concepts,https://kubernetes.io/docs/concepts/,https://www.youtube.com/watch?v=X48VuDVv0do,Deploy an NGINX pod manually.
+kubectl Commands,https://kubernetes.io/docs/reference/kubectl/cheatsheet/,https://www.youtube.com/watch?v=5GzV4rBPa90,"Practice listing pods, services, creating/deleting deployments."
+Kubernetes YAML Manifests,https://www.digitalocean.com/community/tutorials/an-introduction-to-yaml,https://www.youtube.com/watch?v=1jMR4cHBwZE,"Write Deployment, Service, ConfigMap YAMLs manually."
+Deploying to Kubernetes,https://www.katacoda.com/courses/kubernetes/playground,https://www.youtube.com/watch?v=d6WC5n9G_sM,Deploy a basic web app using YAML files.
+Helm Charts,https://helm.sh/docs/intro/quickstart/,https://www.youtube.com/watch?v=fyK42eI4yZs,Install a Helm chart from Bitnami repository.
+What is GitOps,https://www.weave.works/technologies/gitops/,https://www.youtube.com/watch?v=1oZ7IzzfV8g,Draw your own GitOps workflow diagram.
+GitOps Workflow,https://opengitops.dev/,https://www.youtube.com/watch?v=qJ5R9WTW0_E,Simulate a mock workflow with Git PRs triggering changes manually.
+GitOps Operators,https://argo-cd.readthedocs.io/en/stable/user-guide/argo-vs-flux/,https://www.youtube.com/watch?v=ReD6rlWEKjM,Choose Argo CD/Flux and install locally.
+Minikube/k3d Setup,https://minikube.sigs.k8s.io/docs/start/,https://www.youtube.com/watch?v=6ZxHkA6t98E,Spin up a local cluster.
+Argo CD Installation,https://argo-cd.readthedocs.io/en/stable/getting_started/,https://www.youtube.com/watch?v=5h1f3JIB7IU,"Deploy Argo CD in Minikube, access UI."
+Git Integration with Argo CD,https://argo-cd.readthedocs.io/en/stable/getting_started/#creating-an-application,https://www.youtube.com/watch?v=llfK_9Z8tJY,Deploy a sample guestbook app through GitOps workflow.
+Auto-sync & Manual Sync,https://argo-cd.readthedocs.io/en/stable/user-guide/sync-options/,https://www.youtube.com/watch?v=l6Gt86vYr9o,"Try manual sync, then enable auto-sync for changes."
+Rollback Test,https://argo-cd.readthedocs.io/en/stable/user-guide/rollback/,https://www.youtube.com/watch?v=Qy6BX2BTsuo,Deploy a faulty commit and rollback via Git.
+Drift Detection,https://argo-cd.readthedocs.io/en/stable/user-guide/health/,https://www.youtube.com/watch?v=2P5twVUMfpk,Manually change a deployment and watch Argo detect drift.
